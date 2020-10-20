@@ -15,7 +15,7 @@
 
 ## Functionalities
 - It's implemented using BFS and in coming time it's implementation will be changed to A* Search (Preferential Crawler)
-<!-- [x] Crawls the darknet looking for new hidden service-->
+<!-- [x] Crawls the darknet and looks for new hidden service-->
 - [x] fetch onion links
 - [x] recursive fetching
 - [x] store scrapped data
